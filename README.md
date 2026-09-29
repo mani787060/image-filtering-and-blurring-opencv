@@ -56,7 +56,7 @@ Generate Processed Image
 Compare with Original Image
 ```
 
-## Why Filtering is Important
+## Why Filtering is Important ?
 
 Image filtering and blurring are useful for:
 
